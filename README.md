@@ -10,3 +10,7 @@ Track weather of each city.
 
   https://openweathermap.org/api
 
+
+## UI
+
+GUI usage : PyQt5
