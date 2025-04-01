@@ -3,7 +3,7 @@
 
 Track weather of each city.
 
-Enter the name of the city and program will display current weather in that city 🌨️.
+Enter the name of the city and program will display current weather in that city 🌨️
 
 
 
