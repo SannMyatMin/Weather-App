@@ -1,5 +1,5 @@
 
-# Weather App 🔅🌧️
+# Weather App ☀️🌧️
 
 Track weather of each city.
 
